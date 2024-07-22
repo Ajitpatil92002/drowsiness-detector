@@ -62,5 +62,5 @@ pip install pygame
 ### Step 3: Run the script
 
 ```py
- python drowsiness_detector.py
+ python script.py
 ```
